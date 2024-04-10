@@ -1,5 +1,4 @@
 # Phone Call Algorithm
-![c-language](`https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white`)
 
 ### Context
 Imagine the following scenario: you work for a boss who is always calling you on your cellphone. Every time he calls, he says some numbers that he wants you to add up. Unfortunately, he often makes mistakes with some numbers, but fortunately, he realizes his error and says the number 0, which means to disregard the last number he gave you.
